@@ -55,7 +55,7 @@ const Home = () => {
             <div className="bg-dark position-relative ps-2 mb-5">
 
                 {/* <!-- company logo --> */}
-                <img src={logo1} alt="TNXT" width="80px" height="60px"  />
+                <img src={logo1} alt="TNXT" width="100px" height="50px"  />
 
                 {/* <!-- profile picture --> */}
                 <div className="rounded-circle">
@@ -64,7 +64,7 @@ const Home = () => {
                     alt="profile"
                     width="50px"
                     height="50px"
-                    className="position-absolute rounded-circle me-2 mt-1 top-0 end-0"
+                    className="position-absolute rounded-circle me-2  top-0 end-0"
                 />                
                 </div>
             </div>

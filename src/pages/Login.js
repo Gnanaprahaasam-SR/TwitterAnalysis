@@ -34,9 +34,9 @@ const Login = () => {
         <div className="d-flex justify-content-center mt-5 ">
             {/* logo */}
             <div className="mt-4 text-center">
-                <img src={logo} alt="TNXT" width="260px" height="120px" />
-                <form className="login mt-3 text-center" onSubmit={handler} >
-                    
+                
+                <form className="login  text-center" onSubmit={handler} >
+                <img src={logo} alt="TNXT" width="250px" height="250px" />
                     {/* Title  */}
                     <h1 className="title">Login Account</h1>
         

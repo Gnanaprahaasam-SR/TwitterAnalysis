@@ -67,16 +67,16 @@ const DashBoard = () => {
             {/* nav bar */}
             <div className="container-fluid ps-2 bg-dark position-relative mb-3">
                 {/* company logo */}
-                <img src={logo1} alt="TNXT" width="80px" height="60px" />
+                <img src={logo1} alt="TNXT" width="100px" height="50px" />
 
                 {/* profile picture */}
                 <div className="rounded-circle">
                 <img
                     src={userData?.data?.profile_image_url ?(userData.data.profile_image_url):profile}
                     alt="profile"
-                    width="45px"
-                    height="45px"
-                    className="position-absolute rounded-circle me-2 mt-2 top-0 end-0"
+                    width="50px"
+                    height="50px"
+                    className="position-absolute rounded-circle me-2  top-0 end-0"
                 />
                     
                 </div>
