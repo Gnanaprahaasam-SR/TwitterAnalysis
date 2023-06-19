@@ -1,0 +1,56 @@
+form .title{
+    font-family: 'Inter', sans-serif !important;
+    font-size: 54px !important
+}
+
+form input[type="text"]{
+    font-family: 'Inter', sans-serif !important;
+    font-size: 14px !important;
+}
+form button[type="button"]{
+    font-family: 'Inter', sans-serif !important;
+    font-size: 15px !important;
+}
+form Link{
+    font-family: 'Inter', sans-serif !important;
+    font-size: 14px !important;
+}
+
+.home .title{
+    font-family: "Segoe UI", sans-serif !important;
+    font-size: 400% !important;
+    color: rgb(27, 92, 204);
+    -webkit-text-fill-color: white !important;
+    -webkit-text-stroke-width: 1px !important;
+    -webkit-text-stroke-color:  rgb(27, 92, 204);
+    letter-spacing:0.1em;
+}
+
+.home .msg{
+    font-family: "Segoe UI", sans-serif !important;
+    font-size: 30px !important;
+    letter-spacing: 0.1em;
+}
+
+.home .description{
+    font-family: "Segoe UI", sans-serif !important;
+    font-size: 20px !important;
+    letter-spacing: 0.1em;
+}
+
+.home button[type="button"]:hover{
+    color:rgb(90, 79, 244) !important;
+} 
+
+
+.home .profilecounts {
+    height: 100%;
+    width: 100%;
+    border: 1px solid #00ACEE;
+    border-radius: 10px;
+}
+.home .profilecounts:hover {
+   
+    border: 2px solid #00ACEE;
+    border-radius: 10px;
+}
