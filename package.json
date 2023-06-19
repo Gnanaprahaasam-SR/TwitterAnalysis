@@ -1,5 +1,6 @@
 {
   "name": "codespaces-react",
+  "homepage": "https://gnanaprahaasam-sr.github.io/TwitterAnalysis/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,13 +23,14 @@
     "react-scripts": "^5.0.1",
     "styled-components": "^6.0.0-rc.3",
     "web-vitals": "^3.1.0"
-  },
-  "homepage": "https://gnanaprahaasam-sr.github.io/Gnanaprahaasam-SR/TwitterAnalysis",
+  }, 
   "scripts": {
     "start": "BROWSER=none WDS_SOCKET_PORT=0 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy":"npm run build",
+    "clean":"gh-pages-clean",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
