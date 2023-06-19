@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Gnanaprahaasam-SR/TwitterAnalysis/static/css/main.1c48b80a.css",
-    "main.js": "/Gnanaprahaasam-SR/TwitterAnalysis/static/js/main.5eaf2b39.js",
-    "static/js/496.360783ff.chunk.js": "/Gnanaprahaasam-SR/TwitterAnalysis/static/js/496.360783ff.chunk.js",
-    "static/media/Emoji.gif": "/Gnanaprahaasam-SR/TwitterAnalysis/static/media/Emoji.4c6621298a0609129d1e.gif",
-    "static/media/Logo1.png": "/Gnanaprahaasam-SR/TwitterAnalysis/static/media/Logo1.83efad84bead7aa7683e.png",
-    "static/media/logo.png": "/Gnanaprahaasam-SR/TwitterAnalysis/static/media/logo.c61a44015db77dcaea8a.png",
-    "static/media/profile.svg": "/Gnanaprahaasam-SR/TwitterAnalysis/static/media/profile.b61519472ba4b0a29c1ec4566166253b.svg",
-    "index.html": "/Gnanaprahaasam-SR/TwitterAnalysis/index.html",
-    "main.1c48b80a.css.map": "/Gnanaprahaasam-SR/TwitterAnalysis/static/css/main.1c48b80a.css.map",
-    "main.5eaf2b39.js.map": "/Gnanaprahaasam-SR/TwitterAnalysis/static/js/main.5eaf2b39.js.map",
-    "496.360783ff.chunk.js.map": "/Gnanaprahaasam-SR/TwitterAnalysis/static/js/496.360783ff.chunk.js.map"
+    "main.css": "/TwitterAnalysis/static/css/main.1c48b80a.css",
+    "main.js": "/TwitterAnalysis/static/js/main.4e976f13.js",
+    "static/js/496.360783ff.chunk.js": "/TwitterAnalysis/static/js/496.360783ff.chunk.js",
+    "static/media/Emoji.gif": "/TwitterAnalysis/static/media/Emoji.4c6621298a0609129d1e.gif",
+    "static/media/Logo1.png": "/TwitterAnalysis/static/media/Logo1.83efad84bead7aa7683e.png",
+    "static/media/logo.png": "/TwitterAnalysis/static/media/logo.c61a44015db77dcaea8a.png",
+    "static/media/profile.svg": "/TwitterAnalysis/static/media/profile.b61519472ba4b0a29c1ec4566166253b.svg",
+    "index.html": "/TwitterAnalysis/index.html",
+    "main.1c48b80a.css.map": "/TwitterAnalysis/static/css/main.1c48b80a.css.map",
+    "main.4e976f13.js.map": "/TwitterAnalysis/static/js/main.4e976f13.js.map",
+    "496.360783ff.chunk.js.map": "/TwitterAnalysis/static/js/496.360783ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c48b80a.css",
-    "static/js/main.5eaf2b39.js"
+    "static/js/main.4e976f13.js"
   ]
 }
