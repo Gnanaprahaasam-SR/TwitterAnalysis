@@ -5,7 +5,7 @@ import logo1 from '../images/logo.png';
 import { Autorenew, BorderColor, Comment, Favorite, Visibility } from "@mui/icons-material";
 import './style.css';
 import profile from '../images/profile.svg';
-import { options } from "../components/BarChat";
+import { options } from "../components/BarChat.js";
 import { Bar } from 'react-chartjs-2';
 const DashBoard = () => {
     const [tweetData, setTweetData] = useState({});

@@ -1,10 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Login from './pages/Login';
-import Home from './pages/Home';
-import Post from './pages/Post';
-import DashBoard from './pages/Dashboard';
+import Login from './pages/Login.js';
+import Home from './pages/Home.js';
+import Post from './pages/Post.js';
+import DashBoard from './pages/Dashboard.js';
 
 
 

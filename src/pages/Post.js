@@ -3,7 +3,8 @@ import './post.css';
 import logo1 from '../images/logo.png';
 import profile from '../images/profile.svg';
 import { Link, useParams } from "react-router-dom";
-import CircularProgress from '@mui/material/CircularProgress';
+
+
 const Post = () => {
   const [userData, setUserData] = useState({});
   const [userPosts, setUserPosts] = useState({});
@@ -122,8 +123,8 @@ const Post = () => {
               </div>
             ))
           ) : (
-            <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-              <CircularProgress />  </div>
+            <div>
+              <p>Data not founded</p> </div>
           )}
         </div>
       </div>
